@@ -23,12 +23,18 @@ So that is how I programmed it to behave...
 
 ## 2
 The song can be made configurable by setting 
-    List<String> animals
+	```
+	List<String> animals
+	```
 and
-    // animal -> rhyme
-    Map<String, String> rhymes
+	```
+	// animal -> rhyme
+	Map<String, String> rhymes
+	```
 properties through their respective setters.
 
 ## 3
 Since I thought testing the main-method of Song would be bad style, I took the liberty to test 
-    String song = song.sing();
+	```
+	String song = song.sing();
+	```
