@@ -40,3 +40,6 @@ Since I thought testing the main-method of Song would be bad style, I took the l
 ~~~
 String song = song.sing();
 ~~~
+
+## 4
+There was no easy way to test, if the second line rhymes with the first one (i.e. 'fly' and 'die' rhyme), so it is not covered by any tests.
