@@ -10,7 +10,7 @@ I was slightly confused about how to end the first line of each verse:
 *1. Verse*
 > There was an old lady who swallowed a fly.
 
-end with a dot (.) ,
+ends with a dot (.) ,
 
 *Middle Verses*
 > There was an old lady who swallowed a spider;
@@ -19,6 +19,7 @@ end with a semicolon (;) ,
 
 *Last Verse*
 > There was an old lady who swallowed a horse...
+
 ends with three dots (...) .
 
 So that is how I programmed it to behave...
